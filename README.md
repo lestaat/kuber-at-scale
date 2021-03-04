@@ -11,3 +11,6 @@ $ helm install wp azure-marketplace/wordpress -n wp
 
 3. Import Crelly Slider (zip file)
 
+4. Install Crelly Slider Plugin 
+
+5. Customize Theme 
